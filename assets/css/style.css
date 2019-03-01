@@ -1,0 +1,53 @@
+body {
+    background-image: url("../images/background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Laila', serif;
+}
+
+.title {
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+    color: #ffcbb8;
+}
+
+label {
+    color: #ffcbb8;
+}
+
+#button-array {
+    display: flex;
+    justify-content: center;
+}
+
+.weather, #add-weather {
+    background-color: #eab6aa;
+    color: #5a3c26
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+#gif-array {
+    text-align: center;
+    padding: 10px;
+    color: #ffcbb8;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ffcbb8;
+}
+
+.examplediv {
+    background-color: #ffcbb8;
+    background-color: #9b9caa;
+    background-color: #e79f6f;
+    background-color: #5a3c26;
+    background-color: #eab6aa;
+}
+

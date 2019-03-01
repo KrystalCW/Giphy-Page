@@ -43,6 +43,10 @@ form {
     border-color: #ffcbb8;
 }
 
+.gif {
+    max-width: 400px;
+}
+
 .examplediv {
     background-color: #ffcbb8;
     background-color: #9b9caa;
